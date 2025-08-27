@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/yugam23/yugam23/Bro.png" alt="Coding Bro" width=350px height=350px/>
+<img align="right" src="https://github.com/yugam23/yugam23/blob/main/Bro.png" alt="Coding Bro" width=350px height=350px/>
 
 
 ## Hi, I'm Yugam 👋

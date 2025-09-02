@@ -56,12 +56,11 @@
 <br />
 <br />
 
-<img align="left" src="https://github.com/yugam08/yugam08/blob/master/coffee.gif" alt="Coding Bro" width=150px height=150px/>
 
-![Yugam's Github Stats](https://github-readme-stats.vercel.app/api?username=assaultpunisher&theme=dark&show_icons=true&hide=contribs)
+![Yugam's Github Stats](https://github-readme-stats.vercel.app/api?username=yugam08&theme=dark&show_icons=true&hide=contribs)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assaultpunisher&theme=dark&hide=PowerShell) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugam08&theme=dark&hide=PowerShell) 
 
 
 

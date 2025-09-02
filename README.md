@@ -57,10 +57,10 @@
 <br />
 
 
-![Yugam's Github Stats](https://github-readme-stats.vercel.app/api?username=yugam08&theme=dark&show_icons=true&hide=contribs)
+![Yugam's Github Stats](https://github-readme-stats.vercel.app/api?username=yugam23&theme=dark&show_icons=true&hide=contribs)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugam08&theme=dark&hide=PowerShell) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugam23&theme=dark&hide=PowerShell) 
 
 
 

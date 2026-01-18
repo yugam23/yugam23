@@ -107,9 +107,3 @@ I am a **Working Professional** passionate about bridging the gap between comple
     <img src="https://streak-stats.demolab.com?user=yugam23&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yugam23&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</div>

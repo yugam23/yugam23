@@ -1,8 +1,8 @@
 <div align="center">
  
-  <img align="center" src="https://github.com/yugam23/yugam23/blob/main/Bro.png" alt="Coding Bro" width=350px height=350px/
+  <img align="center" src="https://github.com/yugam23/yugam23/blob/main/Bro.png" alt="Coding Bro" width=350px height=350px/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi%20there,%20I'm%20Yugam!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Turning%20Coffee%20Into%20Code&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20there,%20I'm%20Yugam!&desc=Turning%20Coffee%20Into%20Code&descAlignY=51&descAlign=60&textBg=false&reversal=false&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
@@ -95,20 +95,17 @@ I am a **Working Professional** passionate about bridging the gap between comple
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugam23&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugam23&layout=compact&theme=dark&hide_border=true" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugam23&theme=tokyo-night&radius=16&hide_border=true&days=10" alt="activity graph" />
 </p>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yugam23&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=yugam23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yugam23&style=plastic&color=blue" alt="Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=yugam23&style=for-the-badge&color=blue" alt="Profile+Views"/>
 </div>

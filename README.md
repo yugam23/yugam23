@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img align="right" src="https://github.com/yugam23/yugam23/blob/main/Bro.png" alt="Coding Bro" width=350px height=350px/>
+  <img align="center" src="https://github.com/yugam23/yugam23/blob/main/Bro.png" alt="Coding Bro" width=350px height=350px/>
   
   <h1 align="center">Hi there, I'm Yugam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 

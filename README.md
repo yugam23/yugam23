@@ -1,17 +1,12 @@
 <div align="center">
  
-  <img align="center" src="https://github.com/yugam23/yugam23/blob/main/Bro.png" alt="Coding Bro" width=350px height=350px/>
-  
-  <h1 align="center">Hi there, I'm Yugam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <img align="center" src="https://github.com/yugam23/yugam23/blob/main/Bro.png" alt="Coding Bro" width=350px height=350px/
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hi%20there,%20I'm%20Yugam!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Turning%20Coffee%20Into%20Code&descAlignY=51&descAlign=62" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <b>Turning coffee into code and ideas into reality.</b><br>
-    <i>"Everything is impossible, until someone does it."</i>
-  </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/yugamofficial/" target="_blank">
@@ -33,12 +28,16 @@
 
 ### 🧐 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" width="30%" />
+
 I am a **Working Professional** passionate about bridging the gap between complex algorithms and real-world applications. 
 
 - 🔭 **Current Focus:** Building intelligent **RAG (Retrieval-Augmented Generation)** systems and scalable web apps.
 - 💡 **Core Skills:** I specialize in **Python & C++**, with deep experience in **Machine Learning workflows**.
 - 🤝 **Collaboration:** I love building coalitions and using analytical skills to drive projects forward.
 - ⚡ **Hobby:** When not coding, I'm likely solving competitive programming problems or gaming.
+
+<br clear="right"/>
 
 ---
 
@@ -95,15 +94,21 @@ I am a **Working Professional** passionate about bridging the gap between comple
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugam23&show_icons=true&theme=dark&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugam23&layout=compact&theme=dark&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yugam23&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugam23&layout=compact&theme=dark&hide_border=true" alt="languages graph" />
+</p>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yugam23&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=yugam23&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yugam23&style=plastic&color=blue" alt="Profile+Views"/>
 </div>

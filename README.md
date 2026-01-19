@@ -1,5 +1,5 @@
 <div align="center">
- 
+
   <img align="center" src="https://github.com/yugam23/yugam23/blob/main/Bro.png" alt="Coding Bro" width=350px height=350px/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20there,%20I'm%20Yugam!&desc=Turning%20Coffee%20Into%20Code&descAlignY=51&descAlign=60&textBg=false&reversal=false&animation=fadeIn&fontAlignY=38" width="100%" />
@@ -12,6 +12,15 @@
     <a href="https://www.linkedin.com/in/yugamofficial/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+   <a href="mailto:yugamofficial@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
+   <a href="https://medium.com/@assaultpunisher" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+    </a>
+   <a href="https://www.youtube.com/@ZeroFrameFps" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    </a>
     <a href="https://twitter.com/asltpunisher" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
@@ -20,6 +29,9 @@
     </a>
     <a href="https://www.kaggle.com/yugam08" target="_blank">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+    </a>
+   <a href="https://www.twitch.tv/assaultpunisher00" target="_blank">
+      <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
     </a>
   </p>
 </div>
@@ -44,13 +56,28 @@ I am a **Working Professional** passionate about bridging the gap between comple
 ### 💻 The Tech Arsenal
 
 <div align="center">
-
-| **Core Languages** | **AI & Data Science** | **Web & Frameworks** | **Tools & Platforms** |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
+	<table>
+		<tr>
+			<th colspan="3">Core Languages</th>
+			<th colspan="3">AI & Data Science</th>
+			<th colspan="3">Web & Frameworks</th>
+			<th colspan="3">Tools & Platforms</th>
+		</tr>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" title="MATLAB"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code></td>
+		</tr>
+	</table>
 </div>
 
 ---
@@ -128,6 +155,14 @@ I am a **Working Professional** passionate about bridging the gap between comple
 
 ---
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/zfppmz7hmuyasdecrtwh25kbq)
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -136,7 +171,7 @@ I am a **Working Professional** passionate about bridging the gap between comple
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=yugam23&theme=algolia&hide_border=true&border_radius=10&mode=weekly&card_width=800" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com?user=yugam23&theme=algolia&hide_border=true&border_radius=10&mode=weekly&card_width=1200" alt="GitHub Streak" />
   </a>
 </div>
 

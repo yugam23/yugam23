@@ -92,6 +92,42 @@ I am a **Working Professional** passionate about bridging the gap between comple
 
 ---
 
+### 🎮 Valorant Highlights
+
+<p align="center">
+  <i>Check out my top plays, no-scopes, and gaming moments on ZeroFrameFps!</i>
+</p>
+
+<div align="center">
+   <a href="https://www.youtube.com/@ZeroFrameFps?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to ZeroFrameFps"/>
+  </a>
+</div>
+
+<br/>
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://youtu.be/XrgysQ5a0hI" target="_blank">
+        <img src="https://wsrv.nl/?url=img.youtube.com/vi/XrgysQ5a0hI/mqdefault.jpg&w=250&h=140&fit=cover&r=20" alt="Valorant Gameplay 1" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://youtu.be/RAOUoLz-acQ" target="_blank">
+        <img src="https://wsrv.nl/?url=img.youtube.com/vi/RAOUoLz-acQ/mqdefault.jpg&w=250&h=140&fit=cover&r=20" alt="Valorant Gameplay 2" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <a href="https://youtu.be/mVmDDC2U68U" target="_blank">
+        <img src="https://wsrv.nl/?url=img.youtube.com/vi/mVmDDC2U68U/mqdefault.jpg&w=250&h=140&fit=cover&r=20" alt="Valorant Gameplay 3" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">

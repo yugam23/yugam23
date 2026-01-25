@@ -27,12 +27,12 @@
     <a href="https://twitter.com/asltpunisher" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-    <a href="https://leetcode.com/yugam08/" target="_blank">
+    <!-- <a href="https://leetcode.com/yugam08/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-    </a>
-    <a href="https://www.kaggle.com/yugam08" target="_blank">
+    </a> -->
+    <!-- <a href="https://www.kaggle.com/yugam08" target="_blank">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-    </a>
+    </a> -->
    <a href="https://www.twitch.tv/assaultpunisher00" target="_blank">
       <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
     </a>

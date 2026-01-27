@@ -18,7 +18,7 @@
    <a href="mailto:yugamofficial@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
-   <a href="https://medium.com/@assaultpunisher" target="_blank">
+   <a href="https://medium.com/@yugamofficial" target="_blank">
       <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
     </a>
    <a href="https://www.youtube.com/@ZeroFrameFps" target="_blank">

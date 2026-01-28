@@ -169,7 +169,7 @@ I am a **Working Professional** passionate about bridging the gap between comple
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugam23&theme=tokyo-night&radius=16&hide_border=true&days=15" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugam23&theme=tokyo-night&radius=16&hide_border=true&days=20" alt="activity graph" />
 </p>
 
 <div align="center">

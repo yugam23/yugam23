@@ -174,7 +174,7 @@ I am a **Working Professional** passionate about bridging the gap between comple
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=yugam23&theme=algolia&hide_border=true&border_radius=10&mode=weekly&card_width=1200" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com?user=yugam23&theme=algolia&hide_border=true&border_radius=10&mode=daily&card_width=1200" alt="GitHub Streak" />
   </a>
 </div>
 

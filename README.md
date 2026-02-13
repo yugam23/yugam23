@@ -175,11 +175,11 @@ I am a **Working Professional** passionate about bridging the gap between comple
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=yugam23&theme=algolia&hide_border=true&border_radius=10&mode=daily"
-         alt="Yugam's GitHub Streak" width="400" />
+         alt="Yugam's GitHub Streak" width="450" />
   </a>
   <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yugam23&layout=compact&theme=algolia&hide_border=true"
-         alt="Yugam's Top Langs" width="288" />
+         alt="Yugam's Top Langs" width="326" />
   </a>
 </div>
 
